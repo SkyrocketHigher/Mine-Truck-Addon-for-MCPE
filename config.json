@@ -8,7 +8,7 @@
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": false,
+      "maps": true,
       "texture": false,
       "skin": true,
       "more": false,
@@ -45,13 +45,45 @@
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Fast Bridging Trainer",
+    "role": "Do you like bedwars and skywars? I like. This map is for training bridging skills. There are three modes: onestack, straight and andromeda. If you have some questions ask me. I'll answer your question. I hope you'll enjoy this map.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/Fast bridging trainer.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/1.png"
+  },
+  {
+    "name": "Bridge But Good!",
+    "role": "Bridge But Good!!! This map was made by Apsoma and Elementmax. ",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/2.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/BridgeButGoodEngV1.0.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/4.png"
+  },
+  {
+    "name": "Coffee Mango's Bridging Practice Map",
+    "role": "It's a bridging map! So there are two little floating islands, you have to bridge from the main one to the other, while you bridge, a timer (stopwatch) runs on the side of your screen! You can practice normal bridging, and staircase bridging, and now DIAGONAL BRIDGING! You spawn in the lobby, where you can choose what kind of bridging you will be doing!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/Coffee_Mangos_Bridging_2.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/3.png"
+  },
+  {
+    "name": "Two-Block Bridge",
+    "role": "This is the Bridge, on Bedrock Edition, with a two-block wide bridge. If you haven't heard of it yet, it is where two players try to score a goal on their opponent's side by crossing a bridge.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/3/1.png",
+    "file_url": "https://kossandroid.com//Data Android/Minecraft/Bridge/3/TwoBlock_Bridge.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/3/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/3/3.png"
+  },
+  {
+    "name": "Speed Bridge Help World",
+    "role": "The best way to get between gaps in Minecraft is placing blocks, there are ineffective ways to do this, but like anything there are effective ways like speed bridging, this world will help with all ways of speed bridging!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/Speed-Bridge-Help-V.1.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/3.png"
+  }
   ],
   "Texture": [
     {
